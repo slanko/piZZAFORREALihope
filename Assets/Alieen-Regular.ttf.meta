@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 27a324a7b2087f14bb1d11b9c8ca8948
+timeCreated: 1526631416
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alieen
+  fontNames:
+  - Alieen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
